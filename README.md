@@ -12,9 +12,9 @@
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
 
-## Certification
+## Certifications
 
-Microsoft
+- Microsoft
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="150" style="margin: 10px;">
@@ -24,6 +24,7 @@ Microsoft
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="150" style="margin: 10px;">
 </p>
  
+- Databricks 
  
 ## 🚀 About Me 
 
