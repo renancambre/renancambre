@@ -14,6 +14,7 @@ I'm a senior data engineer with experience in designing and implementing data pi
 - 🌱 I’m currently learning about Databricks and Microsoft Fabric
 - 👯 I’m looking to collaborate on events as a volunteer.
 - 💬 Ask me about data engineering, data analysis, business intelligence
+- 🎯 Project Portifolio: https://renancambre.github.io/about.html
 - 📫 How to reach me: https://www.linkedin.com/in/renancambre/
 - 😄 Pronouns: He
 <!-- ⚡ Fun fact: ... -->
