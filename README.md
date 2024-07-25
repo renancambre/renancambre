@@ -15,7 +15,7 @@ I'm a senior data engineer with experience in designing and implementing data pi
 Microsoft
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image description" width="50" style="margin: 20px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image description" width="150" style="margin: 20px;">
 </p>
  
  - DP900
