@@ -1,24 +1,35 @@
+
+
+## Hi, I'm Renan 👋
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif/">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
 </picture>
 
-## Hi, I'm Renan 👋
-
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
+
+## Certification
+
+Microsoft
+ 
+ - DP900
+ - AZ900
+ - AI900
+ - DP203
+ - DP600
  
 ## 🚀 About Me 
 
 - 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
-- 🌱 I’m currently learning Databricks and microsoft Fabric
+- 🌱 I’m currently learning about Databricks and Microsoft Fabric
 - 👯 I’m looking to collaborate on events as a volunteer.
-<!-- 🤔 I’m looking for help with -->
 - 💬 Ask me about data engineering, data analysis, business intelligence
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/renancambre/
 - 😄 Pronouns: He
 <!-- ⚡ Fun fact: ... -->
-
+<!-- 🤔 I’m looking for help with -->
 
 ## ⏰  Challenges for myself:
 ---
@@ -26,9 +37,13 @@ I set a couple self-challenges in order to push myself more further.
 
 - Study every day per at least 2 hours.
 - Read a book a month
+
+<!-- 
 - Workout 4 days in a row and take a day break
 - Avoid over usage of social media
 - Adapting the minimalism life style
+-->
+
 ---
 
 ## Technical Skills
@@ -46,16 +61,39 @@ Languages Program
 </details>
 
 Cloud Plataforms
-- Azure
-- GCP
+<details open>
+<summary>My top Cloud Plataforms</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Azure |
+|     2| GCP    |
+
+</details>
 
 Data Plataforms
-- Databricks
-- Data Factory
-- Microsoft Fabric
+<details open>
+<summary>My top Data Plataforms</summary>
 
-Dataviz
-- PowerBI
+| Rank | Languages |
+|-----:|-----------|
+|     1| Databricks |
+|     2| Data Factory    |
+|     3| Microsoft Fabric    |
+
+</details>
+
+Data Visualization
+<details open>
+<summary>My top Data Visualization</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Power BI |
+|     2| Tableau    |
+|     3| Slice Management    |
+
+</details>
 
 Data Lake
 Databases
@@ -86,15 +124,7 @@ Databases
 - **Kaprixo Modas** - Administrative Assistant (Year - Year)
   - Description of your role and achievements.  
   
-## Certification
 
-Microsoft
- 
- - DP900
- - AZ900
- - AI900
- - DP203
- - DP600
  
 Databricks
  
