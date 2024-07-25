@@ -2,11 +2,13 @@
 
 ## Hi, I'm Renan 👋
 
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif/">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
 </picture>
+-->
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
 
