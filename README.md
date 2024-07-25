@@ -22,16 +22,6 @@ Microsoft
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="150" style="margin: 10px;">
 </p>
  
- - DP900
- - AZ900
- - AI900
- - DP203
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dp203.png/">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dp203.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/renancambre/renancambre/blob/main/img/dp203.png">
-</picture>
- - DP600
  
 ## 🚀 About Me 
 
