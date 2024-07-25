@@ -1,20 +1,27 @@
-
-
-## Hi, I'm Renan 👋
-
-<!-- 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif/">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
-</picture>
--->
+</picture>-->
+
+## Hi, I'm Renan 👋
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
 
+## 🚀 About Me 
+
+- 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
+- 🌱 I’m currently learning about Databricks and Microsoft Fabric
+- 👯 I’m looking to collaborate on events as a volunteer.
+- 💬 Ask me about data engineering, data analysis, business intelligence
+- 📫 How to reach me: https://www.linkedin.com/in/renancambre/
+- 😄 Pronouns: He
+<!-- ⚡ Fun fact: ... -->
+<!-- 🤔 I’m looking for help with -->
+
 ## Certifications
 
-Microsoft
+- Microsoft
 <Details>
 <p align="center">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="150" style="margin: 10px;">
@@ -27,23 +34,13 @@ Microsoft
  
 - Databricks 
  
-## 🚀 About Me 
-
-- 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
-- 🌱 I’m currently learning about Databricks and Microsoft Fabric
-- 👯 I’m looking to collaborate on events as a volunteer.
-- 💬 Ask me about data engineering, data analysis, business intelligence
-- 📫 How to reach me: https://www.linkedin.com/in/renancambre/
-- 😄 Pronouns: He
-<!-- ⚡ Fun fact: ... -->
-<!-- 🤔 I’m looking for help with -->
 
 ## ⏰  Challenges for myself:
----
+
 I set a couple self-challenges in order to push myself more further.
 
 - Study every day per at least 2 hours.
-- Read a book a month
+- Read a book peer month
 
 <!-- 
 - Workout 4 days in a row and take a day break
