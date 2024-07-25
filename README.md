@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ## Hi, I'm Renan 👋
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
@@ -7,11 +13,11 @@ I'm a senior data engineer with experience in designing and implementing data pi
 - 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
 - 🌱 I’m currently learning Databricks and microsoft Fabric
 - 👯 I’m looking to collaborate on events as a volunteer.
-/*- 🤔 I’m looking for help with*/ 
+<!-- 🤔 I’m looking for help with -->
 - 💬 Ask me about data engineering, data analysis, business intelligence
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
-/*- ⚡ Fun fact: ... */
+<!-- ⚡ Fun fact: ... -->
 
 
 ## ⏰  Challenges for myself:
