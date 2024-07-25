@@ -15,7 +15,7 @@ I'm a senior data engineer with experience in designing and implementing data pi
 ## Certifications
 
 - Microsoft
- 
+<details>
 <p align="center">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="150" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp600.png" alt="Image 2" width="150" style="margin: 10px;">
@@ -23,6 +23,7 @@ I'm a senior data engineer with experience in designing and implementing data pi
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/az900.png" alt="Image 4" width="150" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="150" style="margin: 10px;">
 </p>
+</details> 
  
 - Databricks 
  
