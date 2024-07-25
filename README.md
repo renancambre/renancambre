@@ -4,10 +4,10 @@ I'm a senior data engineer with experience in designing and implementing data pi
 
 ## 🚀 About Me 
 
-- 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
-- 🌱 I’m currently learning about Databricks and Microsoft Fabric
+- 🔭 I’m currently working as a Data Engineer.
+- 🌱 I’m currently learning more about Databricks and Microsoft Fabric.
 - 👯 I’m looking to collaborate on events as a volunteer.
-- 💬 Ask me about data engineering, data analysis, business intelligence
+- 💬 Ask me about data engineering, data analysis, business intelligence.
 - For more information, visit the <a href="https://renancambre.github.io/" target="_blank">Project Portfolio</a>.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/renancambre/" target="_blank">LinkedIn</a>.
 - 😄 Pronouns: He
@@ -21,7 +21,7 @@ Languages Program
 |-----:|-----------|
 |     1| SQL |
 |     2| Python    |
-|     3| Ruby       |
+|     3| PySpark   |
 
 </details>
 Cloud Plataforms
