@@ -28,14 +28,14 @@ I set a couple self-challenges in order to push myself more further.
 ## Technical Skills
 
 Languages Program
-<details>
+<details open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
+|     1| SQL |
 |     2| Python    |
-|     3| SQL       |
+|     3| Ruby       |
 
 </details>
 
