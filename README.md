@@ -14,8 +14,7 @@ I'm a senior data engineer with experience in designing and implementing data pi
 
 ## Certifications
 
-- Microsoft
-<details>
+<Microsoft Certifications>
 <p align="center">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="150" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp600.png" alt="Image 2" width="150" style="margin: 10px;">
