@@ -1,31 +1,30 @@
 ## Hi, I'm Renan 👋
 
-Welcome! I'm a passionate data professional.
-I am a data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
-
+I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
+ 
 
 ## 🚀 About Me 
 
-- 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
+- 🌱 I’m currently learning Databricks and microsoft Fabric
+- 👯 I’m looking to collaborate on events as a volunteer.
+/*- 🤔 I’m looking for help with*/ 
+- 💬 Ask me about data engineering, data analysis, business intelligence
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+/*- ⚡ Fun fact: ... */
 
 
 ## ⏰  Challenges for myself:
 ---
-layout: default
-title: About Me
+I set a couple self-challenges in order to push myself more further.
+
+- Study every day per at least 2 hours.
+- Read a book a month
+- Workout 4 days in a row and take a day break
+- Avoid over usage of social media
+- Adapting the minimalism life style
 ---
-
-
-
-# About Me
-
 
 ## Technical Skills
 
