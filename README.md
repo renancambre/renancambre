@@ -9,7 +9,7 @@ I'm a senior data engineer with experience in designing and implementing data pi
 - 👯 I’m looking to collaborate on events as a volunteer.
 - 💬 Ask me about data engineering, data analysis, business intelligence
 - Project Portfolio: [Link Text](https://renancambre.github.io/)
-- [Link Text](https://renancambre.github.io/) - Opens in a new tab
+- For more information, visit the <a href="https://renancambre.github.io/" target="_blank">official website</a>.
 - 📫 How to reach me: https://www.linkedin.com/in/renancambre/
 - 😄 Pronouns: He
 
